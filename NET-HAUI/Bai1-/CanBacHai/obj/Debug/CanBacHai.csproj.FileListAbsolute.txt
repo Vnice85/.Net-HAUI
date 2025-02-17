@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\obj\Debug\CanBacHai.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\obj\Debug\CanBacHai.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\bin\Debug\CanBacHai.exe.config
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\bin\Debug\CanBacHai.exe
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\bin\Debug\CanBacHai.pdb
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\obj\Debug\CanBacHai.exe
+C:\Users\Vnice\source\repos\Bai1-\CanBacHai\obj\Debug\CanBacHai.pdb

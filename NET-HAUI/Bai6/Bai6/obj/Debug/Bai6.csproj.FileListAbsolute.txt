@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\Bai6\Bai6\bin\Debug\Bai6.exe.config
+C:\Users\Vnice\source\repos\Bai6\Bai6\bin\Debug\Bai6.exe
+C:\Users\Vnice\source\repos\Bai6\Bai6\bin\Debug\Bai6.pdb
+C:\Users\Vnice\source\repos\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai6\Bai6\obj\Debug\Bai6.exe
+C:\Users\Vnice\source\repos\Bai6\Bai6\obj\Debug\Bai6.pdb

@@ -1,0 +1,14 @@
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\bin\Debug\net8.0\ThanhPho.exe
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\bin\Debug\net8.0\ThanhPho.deps.json
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\bin\Debug\net8.0\ThanhPho.runtimeconfig.json
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\bin\Debug\net8.0\ThanhPho.dll
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\bin\Debug\net8.0\ThanhPho.pdb
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.AssemblyInfoInputs.cache
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.AssemblyInfo.cs
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.dll
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\refint\ThanhPho.dll
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.pdb
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ThanhPho.genruntimeconfig.cache
+C:\Users\Vnice\source\repos\Bai.2\ThanhPho\obj\Debug\net8.0\ref\ThanhPho.dll

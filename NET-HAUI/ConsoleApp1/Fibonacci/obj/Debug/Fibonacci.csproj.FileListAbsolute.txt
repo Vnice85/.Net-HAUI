@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.pdb

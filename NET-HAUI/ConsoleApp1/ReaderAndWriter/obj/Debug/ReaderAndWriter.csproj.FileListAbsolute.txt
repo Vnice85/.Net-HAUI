@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\obj\Debug\ReaderAndWriter.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\obj\Debug\ReaderAndWriter.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\bin\Debug\ReaderAndWriter.exe.config
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\bin\Debug\ReaderAndWriter.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\bin\Debug\ReaderAndWriter.pdb
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\obj\Debug\ReaderAndWriter.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\ReaderAndWriter\obj\Debug\ReaderAndWriter.pdb

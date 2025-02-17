@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\ClassEx\Classex2\bin\Debug\Classex2.exe.config
+C:\Users\Vnice\source\repos\ClassEx\Classex2\bin\Debug\Classex2.exe
+C:\Users\Vnice\source\repos\ClassEx\Classex2\bin\Debug\Classex2.pdb
+C:\Users\Vnice\source\repos\ClassEx\Classex2\obj\Debug\Classex2.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\ClassEx\Classex2\obj\Debug\Classex2.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\ClassEx\Classex2\obj\Debug\Classex2.exe
+C:\Users\Vnice\source\repos\ClassEx\Classex2\obj\Debug\Classex2.pdb

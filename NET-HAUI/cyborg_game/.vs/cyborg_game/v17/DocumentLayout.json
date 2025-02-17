@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|c:\\users\\vnice\\source\\repos\\cyborg_game\\cyborg_game\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\views\\browser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\views\\browser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\views\\streams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\views\\streams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vnice\\Downloads\\template web\\templatemo_579_cyborg_gaming\\templatemo_579_cyborg_gaming\\streams.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\controllers\\streamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\controllers\\streamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\controllers\\browsercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\controllers\\browsercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69157DC-ADE9-44B2-8267-570820C02C1B}|cyborg_game\\cyborg_game.csproj|solutionrelative:cyborg_game\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "cyborg_game\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "cyborg_game\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:22:01.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Streams\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyborg_game\\Views\\Streams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Streams\\Index.cshtml",
+              "RelativeToolTip": "cyborg_game\\Views\\Streams\\Index.cshtml",
+              "ViewState": "AQIAABwBAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:10:58.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "streams.html",
+              "DocumentMoniker": "C:\\Users\\Vnice\\Downloads\\template web\\templatemo_579_cyborg_gaming\\templatemo_579_cyborg_gaming\\streams.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\template web\\templatemo_579_cyborg_gaming\\templatemo_579_cyborg_gaming\\streams.html",
+              "ToolTip": "C:\\Users\\Vnice\\Downloads\\template web\\templatemo_579_cyborg_gaming\\templatemo_579_cyborg_gaming\\streams.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\template web\\templatemo_579_cyborg_gaming\\templatemo_579_cyborg_gaming\\streams.html",
+              "ViewState": "AQIAALYBAAAAAAAAAADwv+ABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-06T07:09:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StreamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\StreamsController.cs",
+              "RelativeDocumentMoniker": "cyborg_game\\Controllers\\StreamsController.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\StreamsController.cs",
+              "RelativeToolTip": "cyborg_game\\Controllers\\StreamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:09:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyborg_game\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "cyborg_game\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T07:08:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "cyborg_game\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "cyborg_game\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:08:41.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyborg_game\\Views\\Details\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "cyborg_game\\Views\\Details\\Index.cshtml",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T07:07:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Browser\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyborg_game\\Views\\Browser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Browser\\Index.cshtml",
+              "RelativeToolTip": "cyborg_game\\Views\\Browser\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T07:05:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrowserController.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\BrowserController.cs",
+              "RelativeDocumentMoniker": "cyborg_game\\Controllers\\BrowserController.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\BrowserController.cs",
+              "RelativeToolTip": "cyborg_game\\Controllers\\BrowserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:04:58.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyborg_game\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "cyborg_game\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T17:56:27.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "cyborg_game\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "cyborg_game\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:42:56.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "cyborg_game\\Controllers\\DetailsController.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "cyborg_game\\Controllers\\DetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:07:29.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "cyborg_game\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\cyborg_game\\cyborg_game\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "cyborg_game\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:58:45.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

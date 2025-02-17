@@ -1,0 +1,19 @@
+﻿<Window x:Class="Bai12_P1.DangNhap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai12_P1"
+        mc:Ignorable="d"
+        Title="Đăng nhập" Height="177" Width="443" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Width="409" Height="147.04">
+        <Label Content="Tên đăng nhập" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" VerticalAlignment="Top" Width="97"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="107,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="292" Name="txtTenDangNhap"/>
+        <Label Content="Mật khẩu" Height="25" Margin="10,45,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="97"/>
+        <PasswordBox HorizontalAlignment="Left" Height="25" Margin="107,45,0,0" VerticalAlignment="Top" Width="292" Name="txtMatKhau" PasswordChar="*"/>
+        <Button Content="Đăng nhập" HorizontalAlignment="Center" Height="39" Margin="0,93,0,0" VerticalAlignment="Top" Width="146" Name="btnDangNhap" Click="btnDangNhap_Click"/>
+
+       
+    </Grid>
+    
+</Window>

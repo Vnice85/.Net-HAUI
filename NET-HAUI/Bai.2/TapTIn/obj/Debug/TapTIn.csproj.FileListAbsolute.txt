@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\bin\Debug\TapTIn.exe.config
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\bin\Debug\TapTIn.exe
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\bin\Debug\TapTIn.pdb
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\obj\Debug\TapTIn.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\obj\Debug\TapTIn.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\obj\Debug\TapTIn.exe
+C:\Users\Vnice\source\repos\Bai.2\TapTIn\obj\Debug\TapTIn.pdb

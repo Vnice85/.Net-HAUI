@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\modelmusic.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\modelmusic.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\modelmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\modelmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\modelmusic.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\modelmusic.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\modelmusic.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\modelmusic.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\models\\modelmusic.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\models\\modelmusic.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\vnice\\source\\repos\\learnweb\\musicplayer\\musicplayer\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CC9E6B3F-34E8-42A5-B5F6-DAF253F397D5}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MusicPlayer\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:40:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MusicPlayer\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MusicPlayer\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T23:35:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\Login.cs",
+              "RelativeToolTip": "MusicPlayer\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:29:54.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\main.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\main.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\main.cs",
+              "RelativeToolTip": "MusicPlayer\\Models\\main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:29:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelMusic.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\ModelMusic.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.cs",
+              "RelativeToolTip": "MusicPlayer\\Models\\ModelMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:29:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelMusic.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.edmx.diagram",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\ModelMusic.edmx.diagram",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.edmx.diagram",
+              "RelativeToolTip": "MusicPlayer\\Models\\ModelMusic.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T23:29:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelMusic.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.Context.tt",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\ModelMusic.Context.tt",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.Context.tt",
+              "RelativeToolTip": "MusicPlayer\\Models\\ModelMusic.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-07T23:29:36.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelMusic.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.Context.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\ModelMusic.Context.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.Context.cs",
+              "RelativeToolTip": "MusicPlayer\\Models\\ModelMusic.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:29:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelMusic.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.edmx",
+              "RelativeDocumentMoniker": "MusicPlayer\\Models\\ModelMusic.edmx",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Models\\ModelMusic.edmx [Diagram1]",
+              "RelativeToolTip": "MusicPlayer\\Models\\ModelMusic.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-07T23:28:49.615Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicPlayer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MusicPlayer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T22:40:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MusicPlayer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:39:40.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Content\\Style.css",
+              "RelativeDocumentMoniker": "MusicPlayer\\Content\\Style.css",
+              "ToolTip": "C:\\Users\\Vnice\\source\\repos\\LearnWeb\\MusicPlayer\\MusicPlayer\\Content\\Style.css",
+              "RelativeToolTip": "MusicPlayer\\Content\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T22:45:51.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

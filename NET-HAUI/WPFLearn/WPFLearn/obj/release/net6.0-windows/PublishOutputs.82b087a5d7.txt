@@ -1,0 +1,5 @@
+C:\Users\Vnice\source\repos\WPFLearn\WPFLearn\bin\release\net6.0-windows\publish\WPFLearn.exe
+C:\Users\Vnice\source\repos\WPFLearn\WPFLearn\bin\release\net6.0-windows\publish\WPFLearn.dll
+C:\Users\Vnice\source\repos\WPFLearn\WPFLearn\bin\release\net6.0-windows\publish\WPFLearn.deps.json
+C:\Users\Vnice\source\repos\WPFLearn\WPFLearn\bin\release\net6.0-windows\publish\WPFLearn.runtimeconfig.json
+C:\Users\Vnice\source\repos\WPFLearn\WPFLearn\bin\release\net6.0-windows\publish\WPFLearn.pdb

@@ -1,0 +1,60 @@
+﻿
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <title>Index</title>
+
+</head>
+<body>
+    <div class="container" style="margin-top:50px;">
+        <button class="btn btn-primary" style="float:right; margin-bottom:30px;"><a style="color:whitesmoke; width = 100%; height = 100%;" href="~/Home/ADD">ADD</a></button>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Id</th>
+                    <th>Gender</th>
+                    <th>Address</th>
+                    <th>Image</th>
+                    <th>#</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var items in ViewBag.ds)
+                {
+                    <tr>
+                        <td>@items.Name</td>
+                        <td>@items.Id</td>
+                        <td>@items.Gender</td>
+                        <td>@items.Address</td>
+
+
+                        <td>
+                            <a href="~/Home/Edit?id=@items.Id">Sửa</a> |
+                            <a onclick="confirmdelete()" href="~/home/Delete?id=@items.Id">Xoá</a> |
+                            <a href="~/home/Detail?id=@items.Id">Chi Tiết</a>
+                        </td>
+                        <td><a href="~/Data/@Path.GetFileName(items.Url)">@Path.GetFileNameWithoutExtension(items.Url)</a></td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+      
+    </div>
+    <script>
+        function confirmdelete() {
+            if (confirm("are you sure?")) {
+                console.log("Deleted")
+            }
+            else console.log("Closed")
+        }
+    </script>
+</body>
+
+</html>

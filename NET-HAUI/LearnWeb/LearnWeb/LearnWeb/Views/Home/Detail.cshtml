@@ -1,0 +1,44 @@
+﻿@model LearnWeb.Models.ChiTiet
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+</head>
+<body>
+    <div>
+        <h4>ChiTiet</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Details)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Details)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.SinhVien.Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.SinhVien.Name)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

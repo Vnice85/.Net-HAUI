@@ -1,0 +1,14 @@
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\bin\Debug\net8.0\CauTruc.exe
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\bin\Debug\net8.0\CauTruc.deps.json
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\bin\Debug\net8.0\CauTruc.runtimeconfig.json
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\bin\Debug\net8.0\CauTruc.dll
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\bin\Debug\net8.0\CauTruc.pdb
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.AssemblyInfoInputs.cache
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.AssemblyInfo.cs
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.dll
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\refint\CauTruc.dll
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.pdb
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\CauTruc.genruntimeconfig.cache
+C:\Users\Vnice\source\repos\Bai.2\CauTruc\obj\Debug\net8.0\ref\CauTruc.dll

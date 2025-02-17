@@ -1,0 +1,69 @@
+﻿<Window x:Class="WPFSQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSQL"
+        mc:Ignorable="d"
+        Title="Quản lý danh mục sản phẩm" Height="600" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="dgcCenter" TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+
+
+
+    </Window.Resources>
+
+    <Border BorderThickness="10,20,10,10" BorderBrush="Orange">
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="198*"/>
+                <RowDefinition Height="81*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="103*"/>
+                <ColumnDefinition Width="287*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Mã sản phẩm"/>
+            <Label Content="Tên sản phẩm"  Grid.Row="1"/>
+            <Label Content="Số lượng"  Grid.Row="2"/>
+            <Label Content="Đơn giá"  Grid.Row="3"/>
+            <Label Content="Tên loại"  Grid.Row="4"/>
+            <TextBox Name="txtMaSp" Grid.Column="1" HorizontalAlignment="Left" Margin="55,7,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" Height="39"/>
+            <TextBox Name="txtTenSp"  Grid.Column="1" HorizontalAlignment="Left" Margin="55,6,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" Height="39" Grid.Row="1"/>
+            <TextBox Name="txtSoLuong" Grid.Column="1" HorizontalAlignment="Left" Margin="55,12,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" Height="39" Grid.Row="2"/>
+            <TextBox Name="txtDonGia" Grid.Column="1" HorizontalAlignment="Left" Margin="55,11,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" Height="39" Grid.Row="3"/>
+
+            <DataGrid IsReadOnly="True" CanUserAddRows="False" AlternatingRowBackground="LightCoral" AutoGenerateColumns="False" Name="dtg" Grid.Row="5"  Grid.ColumnSpan="2" SelectionChanged="dtg_SelectionChanged"  >
+
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="*" Header="Mã sản phẩm" ElementStyle="{StaticResource dgcCenter}" Binding="{Binding MaSp}"/>
+                    <DataGridTextColumn Width="*" Header="Tên sản phẩm" Binding="{Binding TenSp }"/>
+                    <DataGridTextColumn Width="*" Header="Số lượng" Binding="{Binding SoLuong }"/>
+                    <DataGridTextColumn Width="*" Header="Đơn giá" Binding="{Binding DonGia}"/>
+                    <DataGridTextColumn Width="*" Header="Mã loại" Binding="{Binding MaLoai}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Name="btnThem" Content="Thêm"  HorizontalAlignment="Left" Margin="107,22,0,0" Grid.Row="6" VerticalAlignment="Top" Height="43" Width="91" Click="btnThem_Click" />
+            <Button Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="315,22,0,0" Grid.Row="6" VerticalAlignment="Top" Height="43" Width="91" Grid.Column="1" Click="btnThoat_Click"/>
+            <Button Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="160,22,0,0" Grid.Row="6" VerticalAlignment="Top" Height="43" Width="91" Grid.Column="1" Click="btnXoa_Click"/>
+            <Button Name="btnSua" Content="Sửa" HorizontalAlignment="Left" Margin="36,22,0,0" Grid.Row="6" VerticalAlignment="Top" Height="43" Width="91" Grid.Column="1" Click="btnSua_Click"/>
+            <ComboBox  Name="cbx" Grid.Column="1" HorizontalAlignment="Left" Margin="57,7,0,0" Grid.Row="4" VerticalAlignment="Top" Width="191" Height="39"/>
+
+
+        </Grid>
+    </Border>
+
+</Window>

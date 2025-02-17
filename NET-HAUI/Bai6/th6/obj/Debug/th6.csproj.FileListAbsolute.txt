@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\Bai6\th6\bin\Debug\th6.exe.config
+C:\Users\Vnice\source\repos\Bai6\th6\bin\Debug\th6.exe
+C:\Users\Vnice\source\repos\Bai6\th6\bin\Debug\th6.pdb
+C:\Users\Vnice\source\repos\Bai6\th6\obj\Debug\th6.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\Bai6\th6\obj\Debug\th6.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai6\th6\obj\Debug\th6.exe
+C:\Users\Vnice\source\repos\Bai6\th6\obj\Debug\th6.pdb

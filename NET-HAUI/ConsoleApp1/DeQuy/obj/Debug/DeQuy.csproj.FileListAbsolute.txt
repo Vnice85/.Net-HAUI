@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\obj\Debug\DeQuy.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\obj\Debug\DeQuy.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\bin\Debug\DeQuy.exe.config
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\bin\Debug\DeQuy.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\bin\Debug\DeQuy.pdb
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\obj\Debug\DeQuy.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\DeQuy\obj\Debug\DeQuy.pdb

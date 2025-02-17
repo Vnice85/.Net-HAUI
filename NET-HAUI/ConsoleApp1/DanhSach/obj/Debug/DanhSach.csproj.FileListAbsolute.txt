@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\bin\Debug\DanhSach.exe.config
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\bin\Debug\DanhSach.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\bin\Debug\DanhSach.pdb
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\obj\Debug\DanhSach.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\obj\Debug\DanhSach.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\obj\Debug\DanhSach.exe
+C:\Users\Vnice\source\repos\ConsoleApp1\DanhSach\obj\Debug\DanhSach.pdb

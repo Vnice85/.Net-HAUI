@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\Bai1\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Vnice\source\repos\Bai1\Bai2\bin\Debug\Bai2.exe
+C:\Users\Vnice\source\repos\Bai1\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Vnice\source\repos\Bai1\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\Bai1\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai1\Bai2\obj\Debug\Bai2.exe
+C:\Users\Vnice\source\repos\Bai1\Bai2\obj\Debug\Bai2.pdb

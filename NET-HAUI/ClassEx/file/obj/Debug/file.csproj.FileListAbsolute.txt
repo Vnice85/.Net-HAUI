@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\ClassEx\file\bin\Debug\file.exe.config
+C:\Users\Vnice\source\repos\ClassEx\file\bin\Debug\file.exe
+C:\Users\Vnice\source\repos\ClassEx\file\bin\Debug\file.pdb
+C:\Users\Vnice\source\repos\ClassEx\file\obj\Debug\file.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\ClassEx\file\obj\Debug\file.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\ClassEx\file\obj\Debug\file.exe
+C:\Users\Vnice\source\repos\ClassEx\file\obj\Debug\file.pdb

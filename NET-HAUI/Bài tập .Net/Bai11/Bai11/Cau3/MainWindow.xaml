@@ -1,0 +1,55 @@
+﻿<Window x:Class="Cau3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cau3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10,10" Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="45"/>
+        </Grid.RowDefinitions>
+        <Label Content="Mã sản phẩm" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Margin="0,5,10,0" Name="txtMaSanPham"/>
+        <Label Grid.Row="1" Content="Tên sản phẩm" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="0,5,10,0" Name="txtTenSanPham"/>
+        <Label Grid.Row="2" Content="Số lượng" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Margin="0,5,10,0" Name="txtSoLuong"/>
+        <Label Grid.Row="3" Content="Đơn giá" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Grid.Row="3" Margin="0,5,10,0" Name="txtDonGia"/>
+        <Label Grid.Row="4" Content="Mã loại" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Grid.Row="4" Margin="0,5,10,0" Name="txtMaLoai"/>
+        <DataGrid Grid.Row="5" Grid.ColumnSpan="2" Margin="0,10,0,5" Name="dgSanPham" CanUserAddRows="False" AutoGenerateColumns="False" SelectionChanged="dgvSanPham_SelectionChanged">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>    
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã sản phẩm" Binding="{Binding MaSp}"/>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding TenSp}"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}"/>
+                <DataGridTextColumn Header="Mã loại" Binding="{Binding MaLoai}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Height="45">
+            <Button Name="btnThem" Content="Thêm" Height="35" Width="80" Margin="20,0,0,0" Click="btnThem_Click"/>
+            <Button Name="btnSua" Content="Sửa" Height="35" Width="80" Margin="20,0,0,0" Click="btnSua_Click"/>
+            <Button Name="btnXoa" Content="Xóa" Height="35" Width="80" Margin="20,0,0,0" Click="btnXoa_Click"/>
+            <Button Name="btnThoat" Content="Thoát" Height="35" Width="80" Margin="20,0,20,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

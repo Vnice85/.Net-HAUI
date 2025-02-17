@@ -1,0 +1,7 @@
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\bin\Debug\TamGiac.exe.config
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\bin\Debug\TamGiac.exe
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\bin\Debug\TamGiac.pdb
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\obj\Debug\TamGiac.csproj.AssemblyReference.cache
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\obj\Debug\TamGiac.csproj.CoreCompileInputs.cache
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\obj\Debug\TamGiac.exe
+C:\Users\Vnice\source\repos\Bai1-\TamGiac\obj\Debug\TamGiac.pdb
